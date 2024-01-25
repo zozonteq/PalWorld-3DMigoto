@@ -1,0 +1,10 @@
+# Sharder fixes
+*-ps_replace.txt
+*-vs_replace.txt
+
+# Log
+*_log.txt
+ShaderUsage.txt
+
+# User settings
+d3dx_user.ini 
